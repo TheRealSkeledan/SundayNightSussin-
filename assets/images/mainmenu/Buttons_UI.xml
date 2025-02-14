@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Buttons_UI.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="website button0000" x="156" y="359" width="77" height="75" frameX="2" frameY="2" frameWidth="73" frameHeight="71"/>
+	<SubTexture name="website hover0000" x="0" y="359" width="78" height="75" frameX="2" frameY="2" frameWidth="74" frameHeight="71"/>
+	<SubTexture name="awards button0000" x="78" y="359" width="78" height="75" frameX="2" frameY="2" frameWidth="74" frameHeight="71"/>
+	<SubTexture name="awards hover0000" x="233" y="359" width="77" height="75" frameX="2" frameY="2" frameWidth="73" frameHeight="71"/>
+	<SubTexture name="options button0000" x="310" y="359" width="77" height="75" frameX="2" frameY="2" frameWidth="73" frameHeight="71"/>
+	<SubTexture name="freeplay button0000" x="233" y="270" width="232" height="89" frameX="2" frameY="2" frameWidth="228" frameHeight="85"/>
+	<SubTexture name="credits hover0000" x="0" y="90" width="233" height="90" frameX="2" frameY="2" frameWidth="229" frameHeight="86"/>
+	<SubTexture name="credits button0000" x="233" y="0" width="233" height="90" frameX="2" frameY="2" frameWidth="229" frameHeight="86"/>
+	<SubTexture name="quit hover0000" x="233" y="90" width="233" height="90" frameX="2" frameY="2" frameWidth="229" frameHeight="86"/>
+	<SubTexture name="quit button0000" x="0" y="0" width="233" height="90" frameX="2" frameY="2" frameWidth="229" frameHeight="86"/>
+	<SubTexture name="main_story hover0000" x="0" y="180" width="233" height="90" frameX="2" frameY="2" frameWidth="229" frameHeight="86"/>
+	<SubTexture name="main_story button0000" x="233" y="180" width="233" height="90" frameX="2" frameY="2" frameWidth="229" frameHeight="86"/>
+	<SubTexture name="options hover0000" x="387" y="359" width="77" height="75" frameX="2" frameY="2" frameWidth="73" frameHeight="71"/>
+	<SubTexture name="freeplay hover0000" x="0" y="270" width="233" height="89" frameX="2" frameY="2" frameWidth="229" frameHeight="85"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ethan_Dialogue.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Ethan0000" x="0" y="0" width="246" height="382" frameX="-30" frameY="-8" frameWidth="402" frameHeight="402"/>
+</TextureAtlas>

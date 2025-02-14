@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoBumpin.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="bop0000" x="665" y="625" width="665" height="604" frameX="-7" frameY="-19" frameWidth="688" frameHeight="688"/>
+	<SubTexture name="bop0001" x="0" y="625" width="665" height="611" frameX="-7" frameY="-12" frameWidth="688" frameHeight="688"/>
+	<SubTexture name="bop0002" x="665" y="0" width="665" height="616" frameX="-7" frameY="-7" frameWidth="688" frameHeight="688"/>
+	<SubTexture name="bop0003" x="0" y="0" width="665" height="625" frameX="-7" frameY="2" frameWidth="688" frameHeight="688"/>
+	<SubTexture name="enter0000" x="1330" y="0" width="665" height="597" frameX="-7" frameY="-19" frameWidth="688" frameHeight="688"/>
+	<SubTexture name="enter0001" x="1330" y="597" width="665" height="571" frameX="-7" frameY="-41" frameWidth="688" frameHeight="688"/>
+	<SubTexture name="enter0002" x="1330" y="0" width="665" height="597" frameX="-7" frameY="-19" frameWidth="688" frameHeight="688"/>
+	<SubTexture name="enter0003" x="0" y="0" width="665" height="625" frameX="-7" frameY="2" frameWidth="688" frameHeight="688"/>
+</TextureAtlas>

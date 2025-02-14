@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-215
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-215
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-215
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-215
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-215
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-18,
+				-215
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "maceWhip",
+			"loop": false,
+			"name": "mace"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/epic_imposter_alt",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "epic",
+	"flip_x": false,
+	"healthbar_colors": [
+		8,
+		9,
+		16
+	],
+	"camera_position": [
+		-140,
+		120
+	],
+	"sing_duration": 11,
+	"scale": 1.6
+}

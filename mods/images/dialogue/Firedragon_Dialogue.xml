@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Firedragon_Dialogue.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Firedragon0000" x="0" y="0" width="205" height="280" frameX="-74" frameY="-94" frameWidth="400" frameHeight="400"/>
+</TextureAtlas>

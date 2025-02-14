@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-210
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-215
+			],
+			"anim": "singDOWN",
+			"fps": 18,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-22,
+				-213
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-210
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "shoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-213
+			],
+			"anim": "singLEFT",
+			"fps": 27,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-210
+			],
+			"anim": "singUP",
+			"fps": 25,
+			"name": "up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/firedragonImp",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "skeledragon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		3
+	],
+	"camera_position": [
+		-140,
+		120
+	],
+	"sing_duration": 11,
+	"scale": 1.6
+}

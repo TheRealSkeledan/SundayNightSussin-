@@ -1,0 +1,59 @@
+{
+	"storyName": "Freeplay",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		253,255,191
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"suspicious-actions-old",
+			"oldskelfire",
+			[
+				166,
+				215,
+				193
+			]
+		],
+		[
+			"voided",
+			"void",
+			[
+				136,0,255
+			]
+		],
+		[
+			"epic-slaughter",
+			"epic",
+			[
+				12, 17, 48
+			]
+			
+		],
+		[
+			"polychrome",
+			"freshy",
+			[
+				171, 186, 204
+			]
+		],
+		[
+			"finished-tasks",
+			"skeletwins",
+			[
+				70, 255, 211
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Freeplay"
+}

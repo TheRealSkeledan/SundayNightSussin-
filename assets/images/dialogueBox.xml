@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogueBox.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="dialog frame0000" x="2074" y="467" width="1018" height="468" frameX="-98" frameY="-75" frameWidth="1200" frameHeight="600"/>
+	<SubTexture name="dialog frame0001" x="1038" y="468" width="1035" height="468" frameX="-96" frameY="-76" frameWidth="1200" frameHeight="600"/>
+	<SubTexture name="dialog frame0002" x="0" y="468" width="1034" height="469" frameX="-87" frameY="-78" frameWidth="1200" frameHeight="600"/>
+	<SubTexture name="dialog frame0003" x="2074" y="935" width="1018" height="468" frameX="-96" frameY="-70" frameWidth="1200" frameHeight="600"/>
+	<SubTexture name="dialog frame0004" x="0" y="937" width="1028" height="468" frameX="-92" frameY="-76" frameWidth="1200" frameHeight="600"/>
+	<SubTexture name="dialog frame0005" x="2074" y="1403" width="1015" height="468" frameX="-96" frameY="-74" frameWidth="1200" frameHeight="600"/>
+	<SubTexture name="dialog frame0006" x="1024" y="1405" width="1020" height="468" frameX="-98" frameY="-77" frameWidth="1200" frameHeight="600"/>
+	<SubTexture name="dialog frame0007" x="2074" y="0" width="1022" height="467" frameX="-99" frameY="-73" frameWidth="1200" frameHeight="600"/>
+	<SubTexture name="dialog frame0008" x="1028" y="937" width="1027" height="468" frameX="-89" frameY="-70" frameWidth="1200" frameHeight="600"/>
+	<SubTexture name="dialog frame0009" x="0" y="1405" width="1024" height="468" frameX="-86" frameY="-75" frameWidth="1200" frameHeight="600"/>
+	<SubTexture name="dialog frame0010" x="0" y="0" width="1038" height="468" frameX="-88" frameY="-61" frameWidth="1200" frameHeight="600"/>
+	<SubTexture name="dialog frame0011" x="1038" y="0" width="1036" height="468" frameX="-87" frameY="-63" frameWidth="1200" frameHeight="600"/>
+</TextureAtlas>

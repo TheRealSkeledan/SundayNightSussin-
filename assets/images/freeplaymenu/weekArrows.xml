@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="weekArrows.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="right0000" x="0" y="0" width="148" height="195" frameX="2" frameY="2" frameWidth="144" frameHeight="191"/>
+	<SubTexture name="left0000" x="148" y="0" width="148" height="194" frameX="2" frameY="2" frameWidth="144" frameHeight="190"/>
+</TextureAtlas>

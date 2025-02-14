@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-41,
+				-440
+			],
+			"indices": [],
+			"fps": 36,
+			"anim": "idle",
+			"loop": false,
+			"name": "bionary Idle"
+		},
+		{
+			"offsets": [
+				-41,
+				-438
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bionary Down"
+		},
+		{
+			"offsets": [
+				-43,
+				-431
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bionary Up"
+		},
+		{
+			"offsets": [
+				-56,
+				-440
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bionary Right"
+		},
+		{
+			"offsets": [
+				-33,
+				-442
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bionary Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bionary",
+	"position": [
+		-120,
+		-210
+	],
+	"healthicon": "skelBin",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		54,
+		255
+	],
+	"camera_position": [
+		40,
+		210
+	],
+	"sing_duration": 6,
+	"scale": 1.4
+}

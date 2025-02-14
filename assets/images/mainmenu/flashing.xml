@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flashing.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="flash0000" x="0" y="0" width="1225" height="343" frameX="-51" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="flash0001" x="0" y="343" width="1225" height="343" frameX="-51" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="flash0002" x="0" y="686" width="1225" height="343" frameX="-51" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="flash0003" x="1225" y="0" width="1225" height="343" frameX="-51" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="flash0004" x="1225" y="686" width="1224" height="343" frameX="-52" frameY="2" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="flash0005" x="1225" y="343" width="1224" height="343" frameX="-52" frameY="2" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				535,
+				250
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				536,
+				244
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				510,
+				259
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				520,
+				255
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		},
+		{
+			"offsets": [
+				486,
+				253
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				537,
+				251
+			],
+			"indices": [],
+			"fps": 48,
+			"anim": "attack",
+			"loop": false,
+			"name": "attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skeledanOld",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "oldskel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		252,
+		196
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.0
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-440
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "un bio Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-440
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "un bio Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-440
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "un bio Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-41,
+				-440
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "un bio Right"
+		},
+		{
+			"offsets": [
+				-41,
+				-442
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "un bio Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/un_bio",
+	"position": [
+		-120,
+		-210
+	],
+	"healthicon": "skelNonBin",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		186,
+		201
+	],
+	"camera_position": [
+		0,
+		390
+	],
+	"sing_duration": 6,
+	"scale": 1.4
+}
